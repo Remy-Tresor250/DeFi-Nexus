@@ -1,5 +1,5 @@
 {
-  "name": "merkleairdrop",
+  "name": "Defi-nexus",
   "version": "1.0.0",
   "description": "Efficient token air drop using Merkle Tree",
   "main": "index.js",
@@ -7,8 +7,7 @@
     "test": "truffle test"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LorranSutter/MerkleAirDrop.git"
+    "type": "git"
   },
   "keywords": [
     "Merkle Tree",
@@ -21,10 +20,6 @@
   ],
   "author": "Lorran Sutter",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LorranSutter/MerkleAirDrop/issues"
-  },
-  "homepage": "https://github.com/LorranSutter/MerkleAirDrop#readme",
   "devDependencies": {
     "bn.js": "^5.1.2",
     "eslint": "^7.5.0",
